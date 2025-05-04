@@ -1,8 +1,5 @@
 # 🦠 Prediction of Disease Outbreaks
 
-This project is part of the 4-week internship presented by Edunet Foundation, in
- collaboration with AICTE & Shell.
-
 
 ## 🚀 Key Features
 
